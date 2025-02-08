@@ -10,6 +10,7 @@ This project analyzes hourly customer traffic data from 30 coffee shops to ident
 - Sample size: 30 coffee shops
 - Time period: January 2024
 - Metrics: Hourly customer count (6 AM - 8 PM)
+![image](https://github.com/user-attachments/assets/268192f1-7add-438c-bf98-ebc98a2fd079)
 
 ## Methodology
 1. Data Collection
